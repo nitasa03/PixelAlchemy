@@ -29,8 +29,6 @@ PixelAlchemy is part of my AI portfolio, built to demonstrate practical ML engin
 ![Astronaut Riding Horse](PixelALchemy_Landscape-1.PNG)  
 *Generated image from prompt: “an astronaut riding a horse” — showcasing surreal text-to-image capability.*
 
-![Mountain Landscape](PixelALchemy_Landscape-2.PNG)  
-*Prompt: “a beautiful landscape” — with auto-caption describing a river and mountain range.*
 
 ---
 
